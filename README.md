@@ -12,6 +12,14 @@
 
 
 <div align="center">
+  
+![animation_300_leiuph3a](https://user-images.githubusercontent.com/126203172/221267697-2b1aa457-25db-4889-89b4-8c385e88ef87.gif)
+
+</div>
+  
+###
+
+<div align="center">
 <p align="center">Languages</p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="50"/>
