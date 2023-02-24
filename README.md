@@ -13,7 +13,7 @@
 
 <div align="center">
   
-![animation_300_leiuph3a](https://user-images.githubusercontent.com/126203172/221267697-2b1aa457-25db-4889-89b4-8c385e88ef87.gif)
+ ![DevHackerGif](https://user-images.githubusercontent.com/126203172/221270549-ecbf15ef-ec62-4911-9ddf-9814cecb840d.gif)
 
 </div>
   
