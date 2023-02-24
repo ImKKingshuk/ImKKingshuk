@@ -13,8 +13,9 @@
 
 <div align="center">
   
- ![DevHackerGif](https://user-images.githubusercontent.com/126203172/221270549-ecbf15ef-ec62-4911-9ddf-9814cecb840d.gif)
+![DevHackerGIF](https://user-images.githubusercontent.com/126203172/221277778-aeb09245-0dcf-47d4-872f-74267554b29a.gif)
 
+  
 </div>
   
 ###
