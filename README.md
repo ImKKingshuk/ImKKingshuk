@@ -35,6 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50"/>
+  
+  
+  
+  
+  <img src="https://user-images.githubusercontent.com/126203172/221296014-8e444189-1050-4dfa-a663-2ba7c090e7fc.png" height="40" width="50"/>
+
+  
+  
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50"/>
 
@@ -53,7 +61,20 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="50"/>
           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" width="50"/>
+  
+  
+  <img src="https://user-images.githubusercontent.com/126203172/221296597-357bf6fa-aaeb-4e0a-8f40-bcb1b714ebfb.png" height="40" width="50"/>
+
+  
+  
+  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="50"/>
+  
+  
+  <img src="https://user-images.githubusercontent.com/126203172/221296397-cb86c81c-fbc0-42b9-a025-bb4a69f46bed.png" height="40" width="50"/>
+
+  
+  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="50"/>
@@ -76,9 +97,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="50"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="50"/>
+ 
+  
+  <img src="https://user-images.githubusercontent.com/126203172/221297799-5f45c006-c404-4b79-8f3d-0178ee4162c9.png" height="40" width="50"/>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50"/>
+  <img src="https://user-images.githubusercontent.com/126203172/221297920-906af954-4c4c-43a5-a90d-2082a68b38a2.png" height="40" width="50"/>
 
+       
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="50"/>
+          
+  
  </div>
 
 ###
