@@ -47,6 +47,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="50"/>
+  
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="50"/>
+    
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="50"/>
 
@@ -65,21 +69,21 @@
   
   <img src="https://user-images.githubusercontent.com/126203172/221296597-357bf6fa-aaeb-4e0a-8f40-bcb1b714ebfb.png" height="40" width="50"/>
 
-  
-  
-  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="50"/>
-  
   
   <img src="https://user-images.githubusercontent.com/126203172/221296397-cb86c81c-fbc0-42b9-a025-bb4a69f46bed.png" height="40" width="50"/>
 
-  
-  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="50"/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="50"/>
+  
+  
+  
+  <img src="https://user-images.githubusercontent.com/126203172/221316485-56ddfd1e-9f60-494b-b61f-4d5e8c33e01f.png" height="40" width="50"/>
+
+  
 
 </div>
 
