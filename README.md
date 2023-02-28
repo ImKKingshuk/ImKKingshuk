@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%95%89%F0%9F%92%95Hare+Krishna%F0%9F%92%95%F0%9F%95%89;Developer%2C+Tech+Geek;Web3%2C+Android%2C+iOS%2C+Custom+ROM)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=435&lines=%F0%9F%95%89%F0%9F%92%95Hare+Krishna%F0%9F%92%95Radhe+Radhe%F0%9F%92%95%F0%9F%95%89;Developer%2C+Tech+Geek;Web3%2C+Android%2C+iOS%2C+CustomROMs)](https://git.io/typing-svg)
+  
 </div>
 
 ###
