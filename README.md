@@ -58,6 +58,11 @@
 
 <div align="center">
 <p align="center">Frameworks</p>
+  
+  <img src="https://github.com/ImKKingshuk/ImKKingshuk/assets/126203172/191f0dbf-566b-482f-943d-dfd60509f0f6" height="40" width="40"/>
+
+  
+  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50"/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="50"/>
@@ -71,7 +76,7 @@
   
   <img src="https://user-images.githubusercontent.com/126203172/221296397-cb86c81c-fbc0-42b9-a025-bb4a69f46bed.png" height="40" width="50"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="50"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="50"/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="50"/>
