@@ -62,9 +62,7 @@
   
   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50"/>
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="50"/>
-          
+        
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" width="50"/>
   
   
@@ -98,19 +96,20 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="50"/>
+  <img src="https://github.com/ImKKingshuk/ImKKingshuk/assets/126203172/a9194634-cab9-4857-bd47-78e59ad359f5" height="40" width="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="50"/>
- 
   
-  <img src="https://user-images.githubusercontent.com/126203172/221297799-5f45c006-c404-4b79-8f3d-0178ee4162c9.png" height="40" width="50"/>
+  
+  <img src="https://user-images.githubusercontent.com/126203172/221297799-5f45c006-c404-4b79-8f3d-0178ee4162c9.png" height="40" width="40"/>
 
-  <img src="https://user-images.githubusercontent.com/126203172/221297920-906af954-4c4c-43a5-a90d-2082a68b38a2.png" height="40" width="50"/>
+  <img src="https://user-images.githubusercontent.com/126203172/221297920-906af954-4c4c-43a5-a90d-2082a68b38a2.png" height="40" width="40"/>
 
        
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="50"/>
-          
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="50"/>
+      
   
  </div>
 
