@@ -90,7 +90,16 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&username=ImKKingshuk" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="stats graph"  />
+ 
+</div>
+
+###
+
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?count_private=true&theme=algolia&border_radius=20&user=ImKKingshuk" height="150" alt="stats graph"  />
  
 </div>
 
@@ -98,7 +107,7 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=default&hide_border=true&username=ImKKingshuk" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="languages graph"  />
 
 </div>
 
