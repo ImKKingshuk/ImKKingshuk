@@ -107,7 +107,7 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=100&theme=algolia&border_radius=20&username=ImKKingshuk" height="300" alt="languages graph"  />
 
 </div>
 
