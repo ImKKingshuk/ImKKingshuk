@@ -108,7 +108,7 @@
   <img src="https://kingshuk.vercel.app/Icons/yarn.png" height="50" width="50"/>
 </p>
 
-### Apps and Tools
+### Apps & Tools
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/git.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/tor.png" height="50" width="50"/>
@@ -126,7 +126,7 @@
   <img src="https://kingshuk.vercel.app/Icons/GithubActions.png" height="50" width="50"/>
 </p>
 
-### IDEs and OS
+### IDEs & OS
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/xcode.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/androidstudio.png" height="50" width="50"/>
