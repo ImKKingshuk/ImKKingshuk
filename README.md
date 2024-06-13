@@ -21,16 +21,12 @@
 
 <div align="center">
 
-
-  
-
-
 ### Languages
+
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/c.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/solidity.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/swift.png" height="50" width="50"/> 
-  <img src="https://kingshuk.vercel.app/Icons/vyper.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/swift.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/Rust.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/Java.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/javascript.png" height="50" width="50"/>
@@ -40,15 +36,16 @@
   <img src="https://kingshuk.vercel.app/Icons/html.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/css.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/latex.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/nodejs.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/Matlab.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/htmx.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/python.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/sass.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/Powershell.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/markdown.png" height="50" width="50"/>
 </p>
 
 ### Frameworks
+
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/KingUI.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/react.png" height="50" width="50"/>
@@ -62,6 +59,7 @@
   <img src="https://kingshuk.vercel.app/Icons/astro.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/vite.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/express.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/nodejs.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/electron.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/ionic.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/turbopack.png" height="50" width="50"/>
@@ -77,7 +75,8 @@
   <img src="https://kingshuk.vercel.app/Icons/stilifycss.png" height="50" width="50"/>
 </p>
 
-### Databases
+### Databases & ORMs
+
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/mongodb.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/mysql.png" height="50" width="50"/>
@@ -89,8 +88,8 @@
   <img src="https://kingshuk.vercel.app/Icons/prisma.png" height="50" width="50"/>
 </p>
 
+### Cloud & Services
 
-### Cloud Services
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/vercel.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/cloudflare.png" height="50" width="50"/>
@@ -101,6 +100,7 @@
 </p>
 
 ### Package Managers
+
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/homebrew.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/bun.png" height="50" width="50"/>
@@ -109,6 +109,7 @@
 </p>
 
 ### Apps & Tools
+
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/git.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/tor.png" height="50" width="50"/>
@@ -127,6 +128,7 @@
 </p>
 
 ### IDEs & OS
+
 <p align="center">
   <img src="https://kingshuk.vercel.app/Icons/xcode.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/androidstudio.png" height="50" width="50"/>
@@ -142,17 +144,15 @@
   <img src="https://kingshuk.vercel.app/Icons/HyperOS.png" height="50" width="50"/>
 </p>
 
-
 ###
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="stats graph"  />
  
 </div>
 
 ###
-
 
 <div align="center">
  
@@ -167,5 +167,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=100&theme=algolia&border_radius=20&username=ImKKingshuk" height="400" alt="languages graph"  />
 
 </div>
-
-###
