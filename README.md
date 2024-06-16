@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Developer%2C+Tech+Geek;Web3%2C+Blockchain%2C+CustomROMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=33FFF0&center=true&vCenter=true&random=false&width=650&lines=Developer%2C+Tech+Geek;Web3%2C+Blockchain%2C+CustomROMs;Full-Stack+Web+Developer%2C+UI%2FUX+Designer;Kernel+Developer%2C+Shell+Scripting;Magisk+Modules%2C+Android+Mods)](https://git.io/typing-svg)
 
 </div>
 
@@ -143,25 +143,19 @@
   <img src="https://kingshuk.vercel.app/Icons/HyperOS.png" height="50" width="50"/>
 </p>
 
+</div>
+
 ###
 
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="stats graph"  />
- 
-</div>
 
 ###
 
-<div align="center">
- 
   <img src="https://streak-stats.demolab.com/?count_private=true&theme=algolia&border_radius=20&user=ImKKingshuk" height="150" alt="stats graph"  />
- 
-</div>
-
+  
 ###
-
-<div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=100&theme=algolia&border_radius=20&username=ImKKingshuk" height="400" alt="languages graph"  />
 
