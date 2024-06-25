@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=33FFF0&center=true&vCenter=true&random=false&width=650&lines=Developer%2C+Tech+Geek;Full-Stack+Web%F0%9F%8C%90+Developer%2C+UI%2FUX+Designer;Web3%F0%9F%8C%90+%26+Blockchain%E2%9B%93%EF%B8%8F+Developer;Sphinx+of+black+quartz%2C+judge+my+vow;CustomROMs%F0%9F%9B%A0%EF%B8%8F+Developer%2C+Shell+Scripting;Magisk+Modules%2C+Kernel+MODs;Caffeine+in+my+Cup%2C+Code+in+my+Veins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=33FFF0&center=true&vCenter=true&random=false&width=650&lines=Developer%2C+Tech+Geek;Full-Stack+Web%F0%9F%8C%90+Developer%2C+UI%2FUX+Designer;Web3%F0%9F%8C%90+%26+Blockchain%E2%9B%93%EF%B8%8F+Developer;CustomROMs%F0%9F%9B%A0%EF%B8%8F+Developer%2C+Shell+Scripting;Magisk+Modules%2C+Kernel+MODs;Caffeine+in+my+Cup%2C+Code+in+my+Veins)](https://git.io/typing-svg)
 
 </div>
 
