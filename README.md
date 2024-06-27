@@ -134,6 +134,7 @@
   <img src="https://kingshuk.vercel.app/Icons/vscode.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/UnrealEngine.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/macosfinder.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/HarmonyOS.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/KaliLinux.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/zorinos.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/arch.png" height="50" width="50"/>
@@ -141,6 +142,9 @@
   <img src="https://kingshuk.vercel.app/Icons/appleblack.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/android.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/HyperOS.png" height="50" width="50"/>
+  <img src="https://hyperin.vercel.app/HyperIN.png" height="50" width="50"/>
+ <img src="https://kingshuk.vercel.app/Icons/HarmonyOSNEXT.png" height="50" />
+
 </p>
 
 </div>
