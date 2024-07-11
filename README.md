@@ -26,12 +26,12 @@
   <img src="https://kingshuk.vercel.app/Icons/c.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/solidity.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/swift.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/Rust.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/javascript.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/bash.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/mojo.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/typescript.png" height="50" width="50"/>
-  
+  <img src="https://kingshuk.vercel.app/Icons/mojo.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/Rust.png" height="50" width="50"/>
+
 </p>
 
 ### Markup Languages
