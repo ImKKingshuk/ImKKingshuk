@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=33FFF0&center=true&vCenter=true&random=false&width=650&lines=Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C+Tech+Geek+%F0%9F%93%B1+%F0%9F%92%BB+%F0%9F%A5%BD;Full-Stack+Web%F0%9F%8C%90+Developer%2C+UI%2FUX%F0%9F%8E%A8+Designer;Web3+%26+Blockchain%E2%9B%93%EF%B8%8F+Developer;CustomROMs%F0%9F%9B%A0%EF%B8%8F%2C+Shell+Scripting;Magisk+%26+APatch+Modules%F0%9F%A7%A9%2C+Kernel+MODs%E2%9A%99%EF%B8%8F;Caffeine+in+my+Cup%2C+Code+in+my+Veins)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=33FFF0&center=true&vCenter=true&random=false&width=650&lines=Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C+Tech+Geek+%F0%9F%93%B1+%F0%9F%92%BB+%F0%9F%A5%BD;Full-Stack+Web%F0%9F%8C%90+Developer%2C+Web3+%26+Blockchain%E2%9B%93%EF%B8%8F+Developer;CustomROMs%F0%9F%9B%A0%EF%B8%8F%2C+Shell+Scripting;Magisk+%26+APatch+Modules%F0%9F%A7%A9%2C+Kernel+MODs%E2%9A%99%EF%B8%8F;Caffeine+in+my+Cup%2C+Code+in+my+Veins)
 
 </div>
 
