@@ -69,14 +69,14 @@
   <img src="https://kingshuk.vercel.app/Icons/stilifycss.png" height="50" width="50"/>
 </p>
 
-### Runtime Env. & Package Managers
+### Blockchains
 
 <p align="center">
-  <img src="https://kingshuk.vercel.app/Icons/bun.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/nodejs.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/homebrew.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/pnpm.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/yarn.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/ETH.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/MATIC.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/BNB.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/TON.png" height="50" width="50"/>
+
 </p>
 
 ### Databases & ORMs
@@ -88,6 +88,17 @@
   <img src="https://kingshuk.vercel.app/Icons/postgresql.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/supabase.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/prisma.png" height="50" width="50"/>
+</p>
+
+### Runtime Env. & Package Managers
+
+<p align="center">
+  <img src="https://kingshuk.vercel.app/Icons/bun.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/nodejs.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/homebrew.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/pnpm.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/yarn.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/Cargo.png" height="50" width="50"/>
 </p>
 
 ### Cloud & Services
