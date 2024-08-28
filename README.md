@@ -156,10 +156,6 @@
 ###
 
 <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&theme=algolia&border_radius=20&username=ImKKingshuk" height="150" alt="stats graph"  />
-
-###
 
   <img src="https://streak-stats.demolab.com/?count_private=true&theme=algolia&border_radius=20&user=ImKKingshuk" height="150" alt="stats graph"  />
   
