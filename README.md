@@ -146,8 +146,7 @@
   <img src="https://kingshuk.vercel.app/Icons/KaliLinux.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/zorinos.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/arch.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/ubuntu.png" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/Icons/appleblack.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/Apple.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/android.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/HyperOS.png" height="50" width="50"/>
   <img src="https://hyperin.vercel.app/HyperIN.png" height="50" width="50"/>
