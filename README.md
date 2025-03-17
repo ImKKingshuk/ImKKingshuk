@@ -29,8 +29,10 @@
   <img src="https://kingshuk.vercel.app/Icons/javascript.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/bash.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/typescript.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/python.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/mojo.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/Rust.png" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/Icons/Zig.png" height="50" width="50"/>
 
 </p>
 
@@ -80,7 +82,6 @@
   <img src="https://kingshuk.vercel.app/Icons/MATIC.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/BNB.png" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/Icons/TON.png" height="50" width="50"/>
-
 </p>
 
 ### Databases & ORMs
