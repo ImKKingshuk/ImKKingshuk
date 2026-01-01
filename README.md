@@ -64,7 +64,7 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/vite.png" alt="Vite" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/express.png" alt="Express" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/turbopack.png" alt="Turbopack" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/framermotion.png" alt="Framer Motion" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/motion.png" alt="Motion" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/turborepo.png" alt="Turborepo" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/vitest.png" alt="Vitest" height="50" width="50"/>
 </p>
@@ -120,8 +120,6 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/git.png" alt="Git" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/tor.png" alt="Tor" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/figma.png" alt="Figma" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/nginx.png" alt="Nginx" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/postman.png" alt="Postman" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/ipfs.png" alt="IPFS" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/githubactions.png" alt="GitHub Actions" height="50" width="50"/>
 </p>
