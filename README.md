@@ -24,9 +24,10 @@
 
 <p align="center">
   <img src="https://kingshuk.vercel.app/DeveloperIcons/c.png" alt="C" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/cpp.png" alt="C++" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/c++.png" alt="C++" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/rust.png" alt="Rust" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/python.png" alt="Python" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/solidity.png" alt="Solidity" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/swift.png" alt="Swift" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/typescript.png" alt="TypeScript" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/bash.png" alt="Bash" height="50" width="50"/>
@@ -55,6 +56,8 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/jotai.png" alt="Jotai" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/tauri.png" alt="Tauri" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/elysia.png" alt="Elysia" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/hono.png" alt="Hono" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/fastapi.png" alt="Hono" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/zustand.png" alt="Zustand" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/rspack.png" alt="Rspack" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/reactnative.png" alt="React Native" height="50" width="50"/>
@@ -69,11 +72,11 @@
 ### Blockchains
 
 <p align="center">
-  <img src="https://kingshuk.vercel.app/CryptoIcons/eth.png" alt="Ethereum" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/CryptoIcons/bnb.png" alt="Binance Smart Chain" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/CryptoIcons/ethereum.png" alt="Ethereum" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/CryptoIcons/binancesmartchain.png" alt="Binance Smart Chain" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/CryptoIcons/ton.png" alt="TON" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/CryptoIcons/sol.png" alt="Solana" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/CryptoIcons/sui.png" alt="Sui" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/CryptoIcons/solana.png" alt="Solana" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/CryptoIcons/chainlink.png" alt="Chainlink" height="50" width="50"/>
 </p>
 
 ### Databases & ORMs
@@ -85,6 +88,8 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/mysql.png" alt="MySQL" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/postgresql.png" alt="PostgreSQL" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/supabase.png" alt="Supabase" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/redis.png" alt="Redis" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/upstash.png" alt="Upstash" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/xata.png" alt="Xata" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/prisma.png" alt="Prisma" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/drizzle.png" alt="Drizzle" height="50" width="50"/>
@@ -132,7 +137,7 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/harmonyos.png" alt="HarmonyOS" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/kalilinux.png" alt="Kali Linux" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/zorinos.png" alt="ZorinOS" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/arch.png" alt="Arch Linux" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/archlinux.png" alt="Arch Linux" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/apple.png" alt="macOS" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/android.png" alt="Android" height="50" width="50"/>
 
