@@ -68,6 +68,24 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/drizzle.png" alt="Drizzle" height="50" width="50"/>
 </p>
 
+### Tooling & Infrastructure
+
+<p align="center">
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/git.png" alt="Git" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/foundry.png" alt="Foundry" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/hardhat.png" alt="Hardhat" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/bun.png" alt="Bun" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/vite.png" alt="Vite" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/rsbuild.png" alt="RsBuild" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/homebrew.png" alt="Homebrew" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/cargo.png" alt="Cargo" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/pnpm.png" alt="pnpm" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/nodejs.png" alt="Node.js" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/turborepo.png" alt="TurboRepo" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/vitest.png" alt="Vitest" height="50" width="50"/>
+  <img src="https://kingshuk.vercel.app/DeveloperIcons/rstest.png" alt="RsTest" height="50" width="50"/>
+</p>
+
 ### Blockchains
 
 <p align="center">
@@ -85,23 +103,6 @@
   <img src="https://kingshuk.vercel.app/DeveloperIcons/cloudflare.png" alt="Cloudflare" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/aws.png" alt="AWS" height="50" width="50"/>
   <img src="https://kingshuk.vercel.app/DeveloperIcons/googlecloud.png" alt="Google Cloud" height="50" width="50"/>
-</p>
-
-### Tooling & Infrastructure
-
-<p align="center">
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/git.png" alt="Git" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/foundry.png" alt="Foundry" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/hardhat.png" alt="Hardhat" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/bun.png" alt="Bun" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/vite.png" alt="Vite" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/rspack.png" alt="RsPack" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/homebrew.png" alt="Homebrew" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/cargo.png" alt="Cargo" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/pnpm.png" alt="pnpm" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/nodejs.png" alt="Node.js" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/turborepo.png" alt="TurboRepo" height="50" width="50"/>
-  <img src="https://kingshuk.vercel.app/DeveloperIcons/vitest.png" alt="Vitest" height="50" width="50"/>
 </p>
 
 ### Operating Systems
@@ -122,5 +123,4 @@
 
   <img src="https://streak-stats.demolab.com/?count_private=true&theme=algolia&border_radius=20&user=ImKKingshuk" height="150" alt="stats graph"  />
   
-
 </div>
