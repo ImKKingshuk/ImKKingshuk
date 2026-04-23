@@ -1,6 +1,8 @@
-<div align="center">
+<h1 align="center">Hi 👋 , ImKKingshuk</h1>
 
-<img src="https://kingshuk.vercel.app/imkkingshuk.png" alt="ImKKingshuk" height="450" width="600" />
+###
+
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Living+at+0x%CE%A3%CF%80%2C+127.0.0.1;Where+Sums+Meet+The+Infinite)
 
