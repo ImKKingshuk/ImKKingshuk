@@ -36,7 +36,7 @@ in real deployments and code that others can reproduce. I work mainly in
 
 ### Publications
 
-| Paper | Venue | |
+| Paper | Venue | Links |
 | :--- | :--- | :--- |
 | Recovery Boundaries and Quantization Limits for Low-Rank Neural Adaptations under Restricted Oracles | Indocrypt 2026 · Springer LNCS | [Paper](https://github.com/ImKKingshuk/IndoCrypt2026-LoRA-RBQL/blob/main/paper/main.pdf) · [Code](https://github.com/ImKKingshuk/IndoCrypt2026-LoRA-RBQL) |
 | ShieldAgent: Defense-in-Depth Security Framework for Agentic AI Tool Use | IEEE CONECCT 2026 | [Code](https://github.com/ImKKingshuk/ShieldAgent-IEEE-CONECCT-2026) |
