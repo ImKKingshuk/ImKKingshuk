@@ -1,55 +1,64 @@
 # ImKKingshuk
 
-**Software Engineer & Researcher**
+**Researcher & Software Engineer**
 
-I work on systems, security, cryptography, and AI/LLM systems, with a focus on
-performance, reliability, and efficient computation.
+I research the security of machine learning systems: how much a deployed model
+gives away through its API, and how agentic AI can be defended against attacks
+that arrive through the tools it uses.
 
-My engineering work spans low-level debugging, backend and systems software,
-developer tooling, and performance-sensitive applications. I primarily work
-with **Rust, Python, and TypeScript**.
+I came to research through engineering. I've built production systems and
+open-source tools for security research and automation, and that shapes how I
+work: I look for attacks and defenses that hold up against real deployments,
+and I build the experiments, tooling, and reproducible code behind every
+result. I work mainly in **Python, Rust, and TypeScript**.
 
-## Research
+[Website](https://ki.ngsh.uk) · [ORCID](https://orcid.org/0009-0003-8222-6088) ·
+[LinkedIn](https://www.linkedin.com/in/imkkingshuk) · [X](https://x.com/ImKKingshuk)
 
-My current interests include:
+## Publications
 
-- **Cryptography & Cryptanalysis** — protocol security, post-quantum cryptography,
-  security boundaries, and practical attack/defense analysis.
-- **AI & LLM systems** — agent security, efficient inference, sparse architectures,
-  and local/consumer-hardware ML.
-- **Systems & Performance** — concurrency, I/O, profiling, memory efficiency,
-  reliability, and performance-sensitive software.
+- **Recovery Boundaries and Quantization Limits for Low-Rank Neural Adaptations under Restricted Oracles** \
+  Indocrypt 2026 (Springer LNCS) · accepted ·
+  [paper](https://github.com/ImKKingshuk/IndoCrypt2026-LoRA-RBQL/blob/main/paper/main.pdf) ·
+  [code](https://github.com/ImKKingshuk/IndoCrypt2026-LoRA-RBQL) \
+  When a LoRA adapter sits on a public base model, which prediction APIs let an
+  attacker recover it exactly, and when does score quantization actually protect it.
 
-### Current work
+- **ShieldAgent: Defense-in-Depth Security Framework for Agentic AI Tool Use** \
+  IEEE CONECCT 2026 · accepted ·
+  [code](https://github.com/ImKKingshuk/ShieldAgent-IEEE-CONECCT-2026) \
+  Layered defenses against indirect prompt injection and tool-chain attacks on
+  tool-using agents: response sanitization, intent verification, anomaly
+  detection over tool sequences, and sandboxed execution.
 
-**Agentic AI Security**
+## Research interests
 
-Researching security boundaries in tool-using AI systems, including indirect
-prompt injection, tool-chain attacks, execution isolation, and defense-in-depth
-mechanisms.
+- **Machine learning security** — model extraction, what prediction APIs leak,
+  and which output defenses hold against an adaptive attacker.
+- **Agentic AI security** — indirect prompt injection, tool-chain attacks,
+  execution isolation, and defense in depth for tool-using agents.
+- **Cryptography & cryptanalysis** — protocol security, post-quantum
+  cryptography, and practical attack/defense analysis.
+- **Efficient AI systems** — sparse architectures, efficient inference, and ML
+  on consumer hardware.
 
-### Research output
+## Engineering
 
-- **ShieldAgent: Defense-in-Depth Security Framework for Agentic AI Tool Use**
-  Accepted at IEEE CONECCT 2026.
-
-## Selected Engineering
-
-### [LockKnife](/ImKKingshuk/LockKnife)
+### [LockKnife](https://github.com/ImKKingshuk/LockKnife)
 
 Android security research and forensics toolkit built around Python orchestration
 with Rust-accelerated components.
 
-### [USBoverSSH](/ImKKingshuk/USBoverSSH)
+### [USBoverSSH](https://github.com/ImKKingshuk/USBoverSSH)
 
 Rust-based framework for securely tunneling and sharing USB devices over SSH.
 
-### [BloatwareHatao](/ImKKingshuk/BloatwareHatao)
+### [BloatwareHatao](https://github.com/ImKKingshuk/BloatwareHatao)
 
 Rust toolkit for Android package management, debloating, restoration, and
 device optimization.
 
-## Primary Tools
+## Primary tools
 
 **Languages** : Rust · Python · TypeScript · Bash · LaTeX
 
